@@ -1,7 +1,7 @@
 BSD 3-Clause License
 
-Copyright (c) 2002, Gianpiero Cabodi and Stefano Quer at Politecnico di Torino
-Copyright (c) 2025, CUDD Maintainers at https://github.com/cuddorg
+Copyright (c) 2002-2004, Gianpiero Cabodi and Stefano Quer
+Copyright (c) 2025,      CUDD Maintainers at https://github.com/cuddorg
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

@@ -13,7 +13,6 @@
 
   Copyright    [
     Copyright (c) 2002 Politecnico di Torino
-    Copyright (c) 2025 CUDD Maintainers (https://github.com/cuddorg)
     ]
 
 ******************************************************************************/
